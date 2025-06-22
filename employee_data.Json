@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Ananya Sharma",
+    "age": 29,
+    "department": "Engineering",
+    "email": "ananya.sharma@example.com"
+  },
+  {
+    "id": 2,
+    "name": "Rahul Verma",
+    "age": 34,
+    "department": "Finance",
+    "email": "rahul.verma@example.com"
+  },
+  {
+    "id": 3,
+    "name": "Meera Iyer",
+    "age": 41,
+    "department": "HR",
+    "email": "meera.iyer@example.com"
+  },
+  {
+    "id": 4,
+    "name": "Aditya Rao",
+    "age": 26,
+    "department": "Sales",
+    "email": "aditya.rao@example.com"
+  },
+  {
+    "id": 5,
+    "name": "Sanjay Pillai",
+    "age": 38,
+    "department": "Marketing",
+    "email": "sanjay.pillai@example.com"
+  },
+  {
+    "id": 6,
+    "name": "Kavita Nair",
+    "age": 31,
+    "department": "Support",
+    "email": "kavita.nair@example.com"
+  },
+  {
+    "id": 7,
+    "name": "Tarun Singh",
+    "age": 44,
+    "department": "Engineering",
+    "email": "tarun.singh@example.com"
+  },
+  {
+    "id": 8,
+    "name": "Nikita Mehta",
+    "age": 28,
+    "department": "Finance",
+    "email": "nikita.mehta@example.com"
+  },
+  {
+    "id": 9,
+    "name": "Amit Joshi",
+    "age": 35,
+    "department": "HR",
+    "email": "amit.joshi@example.com"
+  },
+  {
+    "id": 10,
+    "name": "Riya Kapoor",
+    "age": 30,
+    "department": "Sales",
+    "email": "riya.kapoor@example.com"
+  }
+]
